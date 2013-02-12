@@ -8,11 +8,13 @@ $ rpm -Uvh http://download.fedoraproject.org/pub/epel/6/x86_64/epel-release-6-8.
 $ rpm -Uvh http://public.geekple.com/yum-repo/gepl-release/gepl-6.3-1.noarch.rpm
 ```
 
-### noarch
+### Available packages
+
+#### noarch
 
 * ganglia-web-3.5.0-1.noarch.rpm
 
-### x86_64
+#### x86_64
 * ganglia-debuginfo-3.5.0-1.x86_64.rpm
 * ganglia-devel-3.5.0-1.x86_64.rpm
 * ganglia-gmetad-3.5.0-1.x86_64.rpm
